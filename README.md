@@ -1,4 +1,17 @@
-# Galaxy Book6 Pro 14 (NP940XJG) — Omarchy-notater
+# Galaxy Book6 Pro på Omarchy — fikser og notater
+
+`https://github.com/trollieske/galaxy-book6-pro-omarchy`
+
+Hent på den nye maskinen:
+
+```bash
+git clone https://github.com/trollieske/galaxy-book6-pro-omarchy
+cd galaxy-book6-pro-omarchy
+bash book6-pro-fixes.sh status
+```
+
+Alt er trygt å lese først: `bash book6-pro-fixes.sh status` endrer ingenting.
+Risikovurdering med rollback for hvert steg står i §0.
 
 Maskin: Samsung Galaxy Book6 Pro 14", Core Ultra 7 356H (Panther Lake / Xe3),
 32 GB, 512 GB, 14" OLED, Windows 11 Pro.
